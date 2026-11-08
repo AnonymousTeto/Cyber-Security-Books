@@ -1,0 +1,50 @@
+Wireshark: Network protocol analyzer.
+Nmap: Network discovery and security auditing tool.
+Metasploit: Penetration testing framework.
+Burp Suite: Web application security testing tool.
+Pentest-Tools: cloud-based toolkit for offensive security testing.
+ZAP (Zed Attack Proxy): Security testing tool for web applications.
+THC-Hydra: Password cracking tool.
+John the Ripper: Password cracking software.
+Aircrack-ng: Suite of tools for wireless security.
+Maltego: Open-source intelligence and forensics application.
+BeEF: Penetration testing tool that focuses on the web browser.
+SQLMap: Automatic SQL injection and database takeover tool.
+Ghidra: Open-source software reverse engineering framework.
+Tcpdump: Packet analyzer.
+Hashcat: Password recovery tool.
+Nikto: Web server scanner.
+Netcat: Networking utility for reading/writing data across network connections.
+Acunetix: Web vulnerability scanner.
+Dirbuster: Multi threaded java application to brute force directories and files names.
+reconftw: complete suite of tools to assess WiFi network security.
+nmapAutomator: Nmap automater tool.
+Dal Fox: XSS scanner.
+Hping: Network testing tool.
+GPG (GNU Privacy Guard): Encryption and decryption tool.
+Shodan: Search engine for Internet-connected devices.
+XSStrike: Advanced XSS Detection Suite.
+Wafw00f: Identifies and fingerprints Web Application Firewall (WAF) products.
+Volatility: Memory forensics framework.
+Ffuf: A fast web fuzzer written in Go.
+WhatWeb: Website fingerprinter.
+Ettercap: Network security tool.
+OpenVAS: Open-source vulnerability scanner.
+Wfuzz: Web application password cracker.
+Sublist3r: Subdomain enumeration tool.
+YARA: Pattern matching swiss knife for malware researchers.
+Reaver: Brute force attack against Wi-Fi Protected Setup (WPS).
+Sn1per: Attack Surface Management Platform protocols.
+JWT Cracker: Simple HS256 JWT token brute force cracker.
+Github-dorks: CLI tool to scan Github repos for potentially sensitive information leak.
+Nessus: Vulnerability, configuration, and compliance scanner.
+Nexpose: Vulnerability management tool.
+NoSQLmap: Automatic NoSQL injection and database takeover tool.
+Social-Engineer Toolkit (SET): Social engineering attack framework.
+CeWL: Custom Word List generator.
+hakrawler: Fast golang web crawler for gathering URLs and JavaScript file locations.
+Autopsy: Digital forensics platform.
+HashDeep: Hash verification tool.
+SpiderFoot: Open-source intelligence automation tool.
+Mimikatz: Post-exploitation tool.
+WiFite: Automated wireless auditor.
